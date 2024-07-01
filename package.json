@@ -1,0 +1,34 @@
+{
+  "name": "taichiweb",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/node": "^7.24.7",
+    "@babel/preset-env": "^7.24.7"
+  },
+  "scripts": {
+    "dev": "babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingKungFuCat/taichiWeb.git"
+  },
+  "keywords": [
+    "!qwe13579"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingKungFuCat/taichiWeb/issues"
+  },
+  "homepage": "https://github.com/CodingKungFuCat/taichiWeb#readme"
+}
